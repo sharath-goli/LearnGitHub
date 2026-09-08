@@ -1,2 +1,2 @@
 # LearnGitHub
-Learing How to use GitHub
+Learing How to use GitHub.
